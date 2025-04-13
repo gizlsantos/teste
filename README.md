@@ -35,7 +35,7 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
     .item img {
-      width: 100px;
+      width: 90px;
       height: 100px;
       object-fit: contain;
       margin-bottom: 0.5rem;
